@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Jellyfin is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://jellyfin.org/
+Jellyfin is a free, open-source media system that lets you collect, manage, and stream your media files. It is community‑built, runs on your own server, and offers no‑strings‑attached streaming to any device, with full control over your library and privacy.
+
+**Areas:** Media · Open-Source · Free-Software · Community · Streaming · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jellyfin.org/)
+- [Documentation](https://jellyfin.org/docs/)
+- [Getting started](https://jellyfin.org/docs/general/quick-start)
+- [Changelog](https://github.com/jellyfin/jellyfin/releases)
+- [Blog](https://jellyfin.org/posts/)
+- [Security](https://jellyfin.org/posts/tags/security)
+- [GitHub](https://github.com/jellyfin)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jellyfin/](https://apis.io/providers/jellyfin/).
